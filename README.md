@@ -5,3 +5,5 @@
 ### 1. Using TFIDF
 
 ### 2. Using Word2vec
+
+### 3. Using Doc2vec
